@@ -4,4 +4,4 @@
 
 [![MarkHiarley's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkHiarley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/MarkHiarley)
 
-![Snake animation](https://github.com/MarkHiarley/MarkHiarley/blob/output/github-contribution-grid-snake.svg)
+
