@@ -1,6 +1,6 @@
 <h2 align="left">Oii, Eu sou Hiarley Costa</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkHiarley&layout=compact&langs_count=7&theme=dracula)](https://github.com/MarkHiarley)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkHiarley&layout=compact&langs_count=7&theme=dracula)](https://github.com/MarkHiarley)
 
 ## Tentando Aprender a Programar
 
@@ -22,7 +22,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -42,10 +42,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
 
 ###
 
@@ -55,4 +52,4 @@
 
 ###
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3142nj4kg3utfbfjdlbhwict22yi&unique={true|1|on|yes})
