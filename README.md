@@ -2,7 +2,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkHiarley&layout=compact&langs_count=7&theme=dracula)](https://github.com/MarkHiarley)
 
-## Tentando Aprender a Programar
+
 
 
 
@@ -20,7 +20,7 @@
   
 <br/>
 
-###
+### Tentando Aprender a Programar
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -51,5 +51,3 @@
 
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3142nj4kg3utfbfjdlbhwict22yi&unique={true|1|on|yes})
