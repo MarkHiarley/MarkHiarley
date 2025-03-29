@@ -4,7 +4,7 @@
 
 ### Bem-vindo(a) ao meu espaço no GitHub! 👋
 
-Sou um desenvolvedor FullStack com uma paixão pelo BackEnd 🌟, atualmente dedicando grande parte do meu tempo ao desenvolvimento de projetos como criar uma API RESTful para gerenciar restaurantes e produtos do cardápio com alta qualidade de código e escalabilidade.
+Sou uma pessoa com um interesse pela tecnologia, atualmente dedicando grande parte do meu tempo ao desenvolvimento de projetos como criar uma API RESTfull, criar desing pra projetos, além de estar estudando quality assurance.
 
 ---
 
