@@ -37,11 +37,6 @@ Sou uma pessoa com um interesse pela tecnologia, atualmente dedicando grande par
 
 ---
 
-## 💡 Projetos em Destaque
-
-### **Desafio Goomer Lista Rango**  
-**Objetivo:** Criar uma API RESTful para gerenciar restaurantes e produtos do cardápio.  
-**Tecnologias:** Node.js, PostgreSQL, ExpressRoutes.  
 
 ## 🌐 Vamos nos conectar?
 
