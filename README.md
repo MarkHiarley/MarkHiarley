@@ -29,13 +29,6 @@ Sou uma pessoa com um interesse pela tecnologia, atualmente dedicando grande par
 
 ---
 
-## 📚 O que estou aprendendo
-
-- **Desenvolvimento de APIs RESTful:** Criando soluções robustas com **Node.js** e boas práticas.
-- **Banco de Dados Relacional:** Modelagem e consultas com **PostgreSQL**, explorando SQL puro para maior controle e desempenho.
-- **Testes e Qualidade:** Aperfeiçoando fluxos com **Postman** e testes unitários para garantir confiabilidade do código.
-
----
 
 
 ## 🌐 Vamos nos conectar?
