@@ -35,7 +35,7 @@ Sou uma pessoa com um interesse pela tecnologia, atualmente dedicando grande par
 
 <div align="center">
   <a href="https://www.instagram.com/hiaarley.costa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hiarley-costa-da-silva-040775292/" target="_blank">
+  <a href="https://www.linkedin.com/in/hiarleysilva/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://open.spotify.com/user/3142nj4kg3utfbfjdlbhwict22yi" target="_blank">
